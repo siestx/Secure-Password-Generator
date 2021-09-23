@@ -1,7 +1,9 @@
 # SecurePasswordGenerator
 It's a open source Secure Password Generator to help with very secure passwords.
 
-You can learn how to use it by opening the "how to use" file.
+v1.3 Change log :
+Now it opens a CMD with the password,
+ The file is smaller
 
 v1.2 Change log :
 Updated the generated passwords from 15 characters to 16 characters
