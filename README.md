@@ -5,7 +5,7 @@ You can learn how to use it by opening the "how to use" file.
 
 v1.2 Change log :
 Updated the generated passwords from 15 characters to 16 characters
-updated the print
+, updated the print
 
 v1.1 Change log :
 Added a welcome message.
