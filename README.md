@@ -1,6 +1,9 @@
 # SecurePasswordGenerator
 It's a open source Secure Password Generator to help with very secure passwords.
 
+v1.5 Change log :
+Updated some prints.
+
 v1.4 Change log : 
 Now it saves the passwords on a folder, Now it asks you how many letters you want the password to have, for what to be and how many and soon a cool print! ( Thank you very much Raluvy95 for the help )
 
