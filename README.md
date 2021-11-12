@@ -1,6 +1,9 @@
 # SecurePasswordGenerator
 It's a open source Secure Password Generator to help with very secure passwords.
 
+WARNING!
+If you want the tool to work please download the library colorama ( py -m pip install colorama or pip install colorama )
+
 v1.5 Change log :
 Updated some prints.
 
