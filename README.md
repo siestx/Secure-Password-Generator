@@ -2,7 +2,16 @@
 It's a open source Secure Password Generator to help with very secure passwords.
 
 WARNING!
-If you want the tool to work please download the library colorama ( py -m pip install colorama or pip install colorama )
+If you want the tool to work please open the file Install First!.
+
+NOTE: When you start the program if there aren't any numbers and there are numbers with some more things, press 1 and then enter.
+
+v1.6 Change log :
+Redesigned tool
+Added Colorama and one more library
+Added Colors
+Added a little Login ;) 
+Thank you Rask-yo !
 
 v1.5 Change log :
 Updated some prints.
