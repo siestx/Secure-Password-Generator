@@ -34,8 +34,8 @@ def enterprogram():
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
                                 Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
                                                                                                                                             """)
-        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Wlcome back " + usr + ",select an option to continue")
-        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Generator")
+        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Welcome back " + usr + ",select an option to continue")
+        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Password Generator")
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "2" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Info")
         ch1 = int(input('[~]: '))
         if ch1 == 1:
@@ -44,7 +44,7 @@ def enterprogram():
             high = low.upper()
             digit = "0123456789"
 
-            times = input("how many passwords do you want? ")
+            times = input("How many passwords do you want? ")
             times = int(times)
 
             length = input("How many lengths do you want to generate? ")
