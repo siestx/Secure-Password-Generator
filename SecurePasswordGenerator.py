@@ -5,7 +5,7 @@ import ctypes
 from colorama import *
 import os
 def enterprogram():
-    ctypes.windll.kernel32.SetConsoleTitleA("SecurePasswordGenerator - V1.4 - Owned By Zenperr - Updated By Rask")
+    ctypes.windll.kernel32.SetConsoleTitleA("SecurePasswordGenerator - V1.7 - Owned By Zenperr - Updated By Rask")
     print("""
                                             ░██████╗██████╗░░██████╗░███╗░░██╗
                                             ██╔════╝██╔══██╗██╔════╝░████╗░██║
@@ -35,7 +35,8 @@ def enterprogram():
                                 Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
                                                                                                                                             """)
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Welcome back " + usr + ",select an option to continue")
-        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Password Generator")
+        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Generator")
+        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Passwords (coming soon, not available, maybe in V1.8.)")
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "2" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Info")
         ch1 = int(input('[~]: '))
         if ch1 == 1:
@@ -44,7 +45,7 @@ def enterprogram():
             high = low.upper()
             digit = "0123456789"
 
-            times = input("How many passwords do you want? ")
+            times = input("how many passwords do you want? ")
             times = int(times)
 
             length = input("How many lengths do you want to generate? ")
