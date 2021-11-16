@@ -36,8 +36,9 @@ def enterprogram():
                                                                                                                                             """)
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Welcome back " + usr + ",select an option to continue")
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Generator")
-        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Passwords (coming soon, not available, maybe in V1.8.)")
-        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "2" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Info")
+        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "2" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Passwords (coming soon, not available, maybe in V1.9.)")
+        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "3" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Change Logs")
+        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "4" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Info")
         ch1 = int(input('[~]: '))
         if ch1 == 1:
             randomShit = "!@#$%^&*"
@@ -73,7 +74,7 @@ def enterprogram():
                 print(a)
                 sleep(0.5)
 
-        if ch1 == 2:
+        if ch1 == 4:
             os.system("cls");
             print("""
                                                             ░██████╗██████╗░░██████╗░███╗░░██╗
@@ -90,8 +91,9 @@ def enterprogram():
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Helpers" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Raphiel/Raluvy95/Gam3rr")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Editor" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Rask")
 
-
-
+        if ch1 == 3:
+            print(Fore.BLUE + "Change log from when the program was released: \n V1.8 - Fixes \n V1.7 - Fixes \n V1.6 - Redesign and more ( helped by rask-yo) \n V1.5 - Updated some prints. \n V1.4 - Passwords save, questions about the password. \n V1.3 - CMD with the password, smaller file, from 16 to 32 characters.(changable) \n V1.2 - From 15 to 16 characters, print updated. \n V1.1 - Welcome Message \n V1.0 - Tool released. \n              This window lasts for 30 seconds than it automatically closes.")
+            sleep(30)
 
 
 
