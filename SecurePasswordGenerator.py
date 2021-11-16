@@ -5,7 +5,7 @@ import ctypes
 from colorama import *
 import os
 def enterprogram():
-    ctypes.windll.kernel32.SetConsoleTitleA("SecurePasswordGenerator - V1.8 - Owned By Zenperr - Updated By Rask")
+    ctypes.windll.kernel32.SetConsoleTitleA("SecurePasswordGenerator - V1.9 - Owned By Zenperr - Updated By Rask")
     print("""
                                             ░██████╗██████╗░░██████╗░███╗░░██╗
                                             ██╔════╝██╔══██╗██╔════╝░████╗░██║
@@ -34,9 +34,9 @@ def enterprogram():
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
                                 Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
                                                                                                                                             """)
-        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Welcome back " + usr + ",select an option to continue")
+        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Welcome back " + usr + ",select an option to continue ( Currently on version 1.9 )")
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Generator")
-        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "2" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Passwords (coming soon, not available, maybe in V1.9.)")
+        print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "2" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Passwords (coming soon, not available, maybe in V2.0.)")
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "3" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Change Logs")
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "4" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Info")
         ch1 = int(input('[~]: '))
@@ -86,13 +86,14 @@ def enterprogram():
                                             Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
                                                                                                                                                         """)
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Thank you for using SPGN, here are the credits and info")
-            print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Version" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "1.4")
+            print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Version" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "1.9")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Owner" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Zenperr")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Helpers" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Raphiel/Raluvy95/Gam3rr")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Editor" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Rask")
+            sleep(15)
 
         if ch1 == 3:
-            print(Fore.BLUE + "CURRENTLY ON VERSION 1.8! \n Change log from when the program was released: \n V1.8 - Fixes, added change log in the tool directly \n V1.7 - Fixes \n V1.6 - Redesign and more ( helped by rask-yo) \n V1.5 - Updated some prints. \n V1.4 - Passwords save, questions about the password. \n V1.3 - CMD with the password, smaller file, from 16 to 32 characters.(changable) \n V1.2 - From 15 to 16 characters, print updated. \n V1.1 - Welcome Message \n V1.0 - Tool released. \n              This window lasts for 30 seconds than it automatically closes.")
+            print(Fore.BLUE + "CURRENTLY ON VERSION 1.9! \n Change log from when the program was released: \n V1.9 - Fixed the Info \n V1.8 - Fixes, added change log in the tool directly \n V1.7 - Fixes \n V1.6 - Redesign and more ( helped by rask-yo) \n V1.5 - Updated some prints. \n V1.4 - Passwords save, questions about the password. \n V1.3 - CMD with the password, smaller file, from 16 to 32 characters.(changable) \n V1.2 - From 15 to 16 characters, print updated. \n V1.1 - Welcome Message \n V1.0 - Tool released. \n              This window lasts for 30 seconds than it automatically closes.")
             sleep(30)
 
 
