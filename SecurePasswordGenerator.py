@@ -99,7 +99,7 @@ def enterprogram():
                                             Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
                                                                                                                                                         """)
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Thank you for using SPGN, here are the credits and info")
-            print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Version" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "1.9")
+            print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Version" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "2.0")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Owner" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Zenperr")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Helpers" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Raphiel/Raluvy95/Gam3rr")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Editor" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Rask")
