@@ -14,7 +14,7 @@ def enterprogram():
                                             ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                             ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
                             Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                    Update coming with the Passwords functioan this weekend!
+                                                       Update soon!
                                                                                                                                         """)
 
     print("Loading...")
@@ -34,7 +34,7 @@ def enterprogram():
                                                 ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
                                 Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                    Update coming with the Passwords functioan this weekend!
+                                                            Update soon!
                                                                                                                                             """)
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Welcome back " + usr + ",select an option to continue ( Currently on version 2.0 )")
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Generator")
@@ -53,7 +53,7 @@ def enterprogram():
                                                 ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
                                 Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                    Update coming with the Passwords functioan this weekend!
+                                                            Update soon!
                                                                                                                                             """)
             randomShit = "!@#$%^&*"
             low = "avcdefghijklmnopqrstuvwxyz"
@@ -100,7 +100,7 @@ def enterprogram():
                                                             ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                                             ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
                                             Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                                Update coming with the Passwords functioan this weekend!
+                                                                        Update soon!
                                                                                                                                                         """)
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Thank you for using SPGN, here are the credits and info")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Version" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "2.0")
