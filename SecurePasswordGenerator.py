@@ -4,17 +4,20 @@ import colorama
 import ctypes
 from colorama import *
 import os
+from colorama import init, Fore, Back, Style
+
+init()
 def enterprogram():
     ctypes.windll.kernel32.SetConsoleTitleA("SecurePasswordGenerator - V2.2 - Owned By Zenperr - Updated By Rask")
     print("""
-                                            ░██████╗██████╗░░██████╗░███╗░░██╗
-                                            ██╔════╝██╔══██╗██╔════╝░████╗░██║
-                                            ╚█████╗░██████╔╝██║░░██╗░██╔██╗██║
-                                            ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
-                                            ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
-                                            ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
-                            Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                            Update coming soon! (redesign)
+                                                ░██████╗██████╗░░██████╗░███╗░░██╗
+                                                ██╔════╝██╔══██╗██╔════╝░████╗░██║
+                                                ╚█████╗░██████╔╝██║░░██╗░██╔██╗██║
+                                                ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
+                                                ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
+                                                ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
+                                Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
+                                            
                                                                                                                                         """)
 
     print("Loading...")
@@ -34,7 +37,7 @@ def enterprogram():
                                                 ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
                                 Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                                Update coming soon! (redesign)
+                                                
                                                                                                                                             """)
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Welcome back " + usr + ",select an option to continue ( Currently on version 2.1 )")
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "1" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Generator")
@@ -45,15 +48,15 @@ def enterprogram():
         if ch1 == 1:
             clearConsole = lambda:os.system('cls' if os.name in ('nt', 'dos') else 'clear')
             clearConsole()
-            print("""
+            print("""   
                                                 ░██████╗██████╗░░██████╗░███╗░░██╗
                                                 ██╔════╝██╔══██╗██╔════╝░████╗░██║
                                                 ╚█████╗░██████╔╝██║░░██╗░██╔██╗██║
                                                 ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
                                                 ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
-                                                ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
+                                                    ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
                                 Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                                Update coming soon! (redesign)
+                                                
                                                                                                                                             """)
             randomShit = "!@#$%^&*"
             low = "avcdefghijklmnopqrstuvwxyz"
@@ -93,14 +96,14 @@ def enterprogram():
             clearConsole = lambda:os.system('cls' if os.name in ('nt', 'dos') else 'clear')
             clearConsole()
             print("""
-                                                            ░██████╗██████╗░░██████╗░███╗░░██╗
-                                                            ██╔════╝██╔══██╗██╔════╝░████╗░██║
-                                                            ╚█████╗░██████╔╝██║░░██╗░██╔██╗██║
-                                                            ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
-                                                            ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
-                                                            ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
-                                            Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                                            Update coming soon! (redesign)
+                                                ░██████╗██████╗░░██████╗░███╗░░██╗
+                                                ██╔════╝██╔══██╗██╔════╝░████╗░██║
+                                                ╚█████╗░██████╔╝██║░░██╗░██╔██╗██║
+                                                ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
+                                                ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
+                                                    ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
+                                Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
+                                                            
                                                                                                                                                         """)
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Thank you for using SPGN, here are the credits and info")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Version" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "2.2")
@@ -114,14 +117,14 @@ def enterprogram():
             clearConsole = lambda:os.system('cls' if os.name in ('nt', 'dos') else 'clear')
             clearConsole()
             print("""
-                                                            ░██████╗██████╗░░██████╗░███╗░░██╗
-                                                            ██╔════╝██╔══██╗██╔════╝░████╗░██║
-                                                            ╚█████╗░██████╔╝██║░░██╗░██╔██╗██║
-                                                            ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
-                                                            ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
-                                                            ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
-                                            Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                                            Update coming soon! (redesign)
+                                                ░██████╗██████╗░░██████╗░███╗░░██╗
+                                                ██╔════╝██╔══██╗██╔════╝░████╗░██║
+                                                ╚█████╗░██████╔╝██║░░██╗░██╔██╗██║
+                                                ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
+                                                ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
+                                                ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
+                                Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
+                                                            
                                                                                                                                                         """)
 
             print(Fore.LIGHTRED_EX + "CURRENTLY ON VERSION 2.2! \n Change log from when the program was released: \n V2.2 - ;) \n V2.1 - Added the function passwords ( still WIP ), updated the prints. \n V2.0 - Little Fixes, added clear. \n V1.9 - Fixed the Info \n V1.8 - Fixes, added change log in the tool directly \n V1.7 - Fixes \n V1.6 - Redesign and more ( helped by rask-yo) \n V1.5 - Updated some prints. \n V1.4 - Passwords save, questions about the password. \n V1.3 - CMD with the password, smaller file, from 16 to 32 characters.(changable) \n V1.2 - From 15 to 16 characters, print updated. \n V1.1 - Welcome Message \n V1.0 - Tool released. \n              This window lasts for 30 seconds than it automatically closes.")
@@ -131,14 +134,14 @@ def enterprogram():
             clearConsole = lambda:os.system('cls' if os.name in ('nt', 'dos') else 'clear')
             clearConsole()
             print("""
-                                                            ░██████╗██████╗░░██████╗░███╗░░██╗
-                                                            ██╔════╝██╔══██╗██╔════╝░████╗░██║
-                                                            ╚█████╗░██████╔╝██║░░██╗░██╔██╗██║
-                                                            ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
-                                                            ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
-                                                            ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
-                                            Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
-                                                            Update coming soon! (redesign)
+                                                ░██████╗██████╗░░██████╗░███╗░░██╗
+                                                ██╔════╝██╔══██╗██╔════╝░████╗░██║
+                                                ╚█████╗░██████╔╝██║░░██╗░██╔██╗██║
+                                                ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
+                                                ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
+                                                ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
+                                Tool Owned By Zenperr | Help: Raphiel/Raluvy95/Gam3rr | Edited: Rask
+                                                            
                                                                                                                                                         """)
 
             print(Fore.LIGHTCYAN_EX + "Currently Working in progress ( WIP ). This feature should get released after the redesign.")
