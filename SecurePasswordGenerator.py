@@ -8,7 +8,7 @@ from colorama import init, Fore, Back, Style
 
 init()
 def enterprogram():
-    ctypes.windll.kernel32.SetConsoleTitleA("SecurePasswordGenerator - V2.2 - Owned By Nobody")
+    ctypes.windll.kernel32.SetConsoleTitleA("SecurePasswordGenerator - V2.2 - Owned By siestx")
     print("""
                                                 ░██████╗██████╗░░██████╗░███╗░░██╗
                                                 ██╔════╝██╔══██╗██╔════╝░████╗░██║
@@ -16,7 +16,7 @@ def enterprogram():
                                                 ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
                                                 ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
-                                                        Tool is free to use
+                                    Tool was made a long time ago by siestx with the help of others
                                             
                                                                                                                                         """)
 
@@ -36,7 +36,7 @@ def enterprogram():
                                                 ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
                                                 ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
-                                                        Tool is free to use
+                                    Tool was made a long time ago by siestx with the help of others
                                                 
                                                                                                                                             """)
         print(Fore.LIGHTMAGENTA_EX + "["  + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Welcome back " + usr + ",select an option to continue ( Currently on version 2.2,1 )")
@@ -55,7 +55,7 @@ def enterprogram():
                                                 ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
                                                 ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
-                                                        Tool is free to use
+                                    Tool was made a long time ago by siestx with the help of others
                                                 
                                                                                                                                             """)
             randomShit = "!@#$%^&*"
@@ -102,7 +102,7 @@ def enterprogram():
                                                 ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
                                                 ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
-                                                        Tool is free to use
+                                    Tool was made a long time ago by siestx with the help of others
                                                             
                                                                                                                                                         """)
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Thank you for using SPGN, here are the credits and info")
@@ -122,7 +122,7 @@ def enterprogram():
                                                 ░╚═══██╗██╔═══╝░██║░░╚██╗██║╚████║
                                                 ██████╔╝██║░░░░░╚██████╔╝██║░╚███║
                                                 ╚═════╝░╚═╝░░░░░░╚═════╝░╚═╝░░╚══╝
-                                                        Tool is free to use
+                                    Tool was made a long time ago by siestx with the help of others
                                                             
                                                                                                                                                         """)
 
