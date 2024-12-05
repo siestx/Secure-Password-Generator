@@ -106,9 +106,9 @@ def enterprogram():
                                                             
                                                                                                                                                         """)
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "CONSOLE" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + "Thank you for using SPGN, here are the credits and info")
-            print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Version" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "2.2,1")
+            print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Version" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "2.2")
             print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Owner" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "-")
-            print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Program" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Program is free to use, previously owned by zenperr")
+            print(Fore.LIGHTMAGENTA_EX + "[" + Fore.LIGHTWHITE_EX + "Program" + Fore.LIGHTMAGENTA_EX + "]" + Fore.LIGHTWHITE_EX + " " + "Program is free to use, previously owned by siestx")
             print(Fore.LIGHTMAGENTA_EX + "          This application is going to close in 15 seconds.")
             sleep(15)
 
@@ -126,7 +126,7 @@ def enterprogram():
                                                             
                                                                                                                                                         """)
 
-            print(Fore.LIGHTRED_EX + "CURRENTLY ON VERSION 2.2,1! \n Change log from when the program was released: \n V2.2,1 Disowning ( 8th of April 2023 ) \n V2.2 - ;) \n V2.1 - Added the function passwords ( still WIP ), updated the prints. \n V2.0 - Little Fixes, added clear. \n V1.9 - Fixed the Info \n V1.8 - Fixes, added change log in the tool directly \n V1.7 - Fixes \n V1.6 - Redesign and more ( helped by rask-yo) \n V1.5 - Updated some prints. \n V1.4 - Passwords save, questions about the password. \n V1.3 - CMD with the password, smaller file, from 16 to 32 characters.(changable) \n V1.2 - From 15 to 16 characters, print updated. \n V1.1 - Welcome Message \n V1.0 - Tool released. \n              This application is going to close in 30 seconds.")
+            print(Fore.LIGHTRED_EX + "CURRENTLY ON VERSION 2.2! \n Change log from when the program was released: \n V2.2 - ;) \n V2.1 - Added the function passwords ( still WIP ), updated the prints. \n V2.0 - Little Fixes, added clear. \n V1.9 - Fixed the Info \n V1.8 - Fixes, added change log in the tool directly \n V1.7 - Fixes \n V1.6 - Redesign and more ( helped by rask-yo) \n V1.5 - Updated some prints. \n V1.4 - Passwords save, questions about the password. \n V1.3 - CMD with the password, smaller file, from 16 to 32 characters.(changable) \n V1.2 - From 15 to 16 characters, print updated. \n V1.1 - Welcome Message \n V1.0 - Tool released. \n              This application is going to close in 30 seconds.")
             sleep(30)
             
         if ch1 == 0:
